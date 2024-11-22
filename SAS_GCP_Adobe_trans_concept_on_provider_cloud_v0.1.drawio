@@ -59,7 +59,7 @@
           <mxGeometry x="136.75" y="210" width="56.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35dKP0a0qPvihtCSCPD3-27" value="Internet" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#B3B3B3;horizontal=0;fontSize=14;fontColor=#999999;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="160" width="10" height="790" as="geometry" />
+          <mxGeometry x="300" y="160" width="10" height="840" as="geometry" />
         </mxCell>
         <mxCell id="35dKP0a0qPvihtCSCPD3-28" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.623;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;strokeColor=#B3B3B3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="35dKP0a0qPvihtCSCPD3-11" target="35dKP0a0qPvihtCSCPD3-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -320,6 +320,18 @@
           <mxGeometry x="390" y="439.94000000000005" as="geometry">
             <mxPoint x="-15" y="-72" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="a-38s5Jq4CYPoX5IpqrW-1" value="On-Premise" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="6.75" y="735" width="273.25" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="a-38s5Jq4CYPoX5IpqrW-2" value="BipPal" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="960" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-38s5Jq4CYPoX5IpqrW-3" value="SA" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="960" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-38s5Jq4CYPoX5IpqrW-5" value="CAS" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="860" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
