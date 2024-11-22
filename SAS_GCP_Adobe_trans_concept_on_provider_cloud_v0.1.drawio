@@ -199,8 +199,8 @@
             <mxPoint x="360" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wJ6JWf97kPDAMJd_mPwP-15" value="Komunikacja z POS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="317" y="200" width="97" height="30" as="geometry" />
+        <mxCell id="wJ6JWf97kPDAMJd_mPwP-15" value="Testowy ruch do silnika decyzyjnego" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="317" y="189" width="97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wJ6JWf97kPDAMJd_mPwP-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeWidth=3;strokeColor=#B3B3B3;dashed=1;dashPattern=1 1;" parent="1" source="hNwgVkph9_-9w0Fj4r1G-10" target="wJ6JWf97kPDAMJd_mPwP-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
